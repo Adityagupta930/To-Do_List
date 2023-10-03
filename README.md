@@ -1,1 +1,2 @@
-# To-Do_List
+Hey here is a simple to-do list
+USing HTML, CSS, JS
